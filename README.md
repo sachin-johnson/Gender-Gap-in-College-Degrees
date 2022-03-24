@@ -1,6 +1,6 @@
 #  Gender Gap In College Degrees
 
-The [Department of Education Statistics](nces.ed.gov/programs/digest/2013menu_tables.asp) releases a data set annually containing the percentage of bachelor's degrees granted to women over the past 5 decades. Randal Olson, a data scientist at University of Pennsylvania, has cleaned the data set and made it available on his personal [website](http://www.randalolson.com/blog/). This dataset can be used to visualize the gender gap in college degrees over the same time period.
+The [Department of Education Statistics](https://nces.ed.gov/programs/digest/2013menu_tables.asp) releases a data set annually containing the percentage of bachelor's degrees granted to women over the past 5 decades. Randal Olson, a data scientist at University of Pennsylvania, has cleaned the data set and made it available on his personal [website](http://www.randalolson.com/blog/). This dataset can be used to visualize the gender gap in college degrees over the same time period.
 
 ## Aim
 
